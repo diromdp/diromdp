@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dirom Purbowiseno
+- I’m Frontend Enginer
+- 🌱 I’m currently working on hijra as CEO
+- 📫 How to reach me in linkedin : https://www.linkedin.com/in/diromdp/
