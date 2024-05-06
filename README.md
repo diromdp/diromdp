@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dirom Purbowiseno
 - I’m Frontend Enginer
-- 🌱 I’m currently working on [Catalazy](https://catalyzecommunications.com/)
+- 🌱 I’m currently working on [Catalyze](https://catalyzecommunications.com/)
 - 📫 How to reach me in linkedin : https://www.linkedin.com/in/diromdp/
