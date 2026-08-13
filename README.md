@@ -2,4 +2,4 @@
 - I’m Frontend Enginer
 - 🌱 I’m currently working on [Catalyze](https://catalyzecommunications.com/)
 - 📫 How to reach me in linkedin : https://www.linkedin.com/in/diromdp/
-- My Portofolio website [https://diromdp.my.id/](https://dirom-web.vercel.app/)
+- My Portofolio website [https://diromdp.my.id/]([https://dirom-web.vercel.app/)](https://www.diromdp.web.id/)
