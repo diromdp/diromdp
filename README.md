@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dirom Purbowiseno
-- I’m Frontend Enginer
+- I’m a Frontend Engineer
 - 🌱 I’m currently working on [Catalyze](https://catalyzecommunications.com/)
-- 📫 How to reach me in linkedin : https://www.linkedin.com/in/diromdp/
-- My Portofolio website [https://diromdp.my.id/]([https://dirom-web.vercel.app/)](https://www.diromdp.web.id/)
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/diromdp/
+- My portfolio website: https://www.diromdp.web.id/
